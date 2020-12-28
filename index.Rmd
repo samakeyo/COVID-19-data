@@ -2,7 +2,7 @@
 title: "Coronavirus in the U.S."
 author: "Sam Akeyo"
 date: "12/27/2020"
-output: rmarkdown::github_document
+output: html_document
 ---
 ```{r echo=FALSE,message=FALSE,warning=FALSE}
 library(knitr)
@@ -13,7 +13,7 @@ library(patchwork)
 library(ggplot2)
 library(plotly)
 library(reshape2)
-source("analysis.R")
+source("analysis.r")
 ```
 
 <!-- Brief Introduction, link to raw data -->
@@ -36,7 +36,7 @@ kable(table1_cases_and_deaths)
 <!-- table showing total reported cases and deaths so far; total reported cases and deaths as of today; percent change in the past 14 days -->
 
 <!-- map with widgets for
-	hot spots --> average daily cases per 100,000 people in the past week
+	hot spots  average daily cases per 100,000 people in the past week -->
 	total cases
 	total deaths
 	deaths per capita
