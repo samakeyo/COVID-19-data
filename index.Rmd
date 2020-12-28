@@ -2,7 +2,7 @@
 title: "Coronavirus in the U.S."
 author: "Sam Akeyo"
 date: "12/27/2020"
-output: html_document
+output: rmarkdown::github_document
 ---
 ```{r echo=FALSE,message=FALSE,warning=FALSE}
 library(knitr)
