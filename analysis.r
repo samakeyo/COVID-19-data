@@ -104,9 +104,9 @@ sumCountyData <- group_by(counties, state) %>% group_by(county)
 ##### "hot spots" -- cases per capita in the past 7 days (default)
 cases_per_capita_average <- sumCountyData %>% summarize(
 
-)
+) 
 
-## ATTENTION SAM, WE NEED TO FIND POPULATION DATA FIRST
+## ATTENTION SAM, WE NEED TO FIND POPULATION DATA FIRST!
 
 ##### total cases by county
 
