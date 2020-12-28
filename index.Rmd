@@ -1,7 +1,5 @@
 ---
-title: "Coronavirus in the U.S."
-author: "Sam Akeyo"
-date: "12/27/2020"
+title: "Coronavirus in the US (in progress)"
 output: html_document
 ---
 ```{r echo=FALSE,message=FALSE,warning=FALSE}
