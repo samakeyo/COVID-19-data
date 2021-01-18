@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus in the US (in progress, updates soon to come)"
+title: "Coronavirus in the US (in progress, updates soon to come) "
 output: html_document
 ---
 ```{r echo=FALSE,message=FALSE,warning=FALSE}
