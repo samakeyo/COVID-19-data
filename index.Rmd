@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus in the US (in progress, updates soon to come) "
-output: html_document
+output: rmarkdown::github_document
 ---
 ```{r echo=FALSE,message=FALSE,warning=FALSE}
 library(knitr)
