@@ -34,7 +34,7 @@ kable(table1_cases_and_deaths)
 <!-- table showing total reported cases and deaths so far; total reported cases and deaths as of today; percent change in the past 14 days -->
 
 <!-- map with widgets for
-	hot spots  average daily cases per 100,000 people in the past week -->
+	hot spots  average daily cases per 100,000 people in the past week >>
 	total cases
 	total deaths
 	deaths per capita
