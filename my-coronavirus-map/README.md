@@ -1,6 +1,6 @@
-# 🍃 Gatsby Leaflet Starter
+# EpiTrack
 
-## 🧰 What This Includes
+## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Sass](https://sass-lang.com)
@@ -9,7 +9,7 @@
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 * [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
